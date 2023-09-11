@@ -5,3 +5,5 @@ modelo_de_clientes.egg-info/dependency_links.txt
 modelo_de_clientes.egg-info/top_level.txt
 packages/__init__.py
 packages/cliente.py
+packages/cliente_premium.py
+packages/manejo_clientes.py
