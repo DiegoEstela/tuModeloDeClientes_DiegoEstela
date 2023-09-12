@@ -1,1 +1,24 @@
-[{"nombre": "Juan Perez", "email": "juan@example.com", "direccion": "Calle 123", "telefono": "555-123-4567", "carrito_compras": []}, {"nombre": "Juana Maria", "email": "juan@example.com", "direccion": "Calle 123", "telefono": "555-123-4567", "carrito_compras": []}, {"nombre": "Maria Rodriguez", "email": "maria@example.com", "direccion": "Avenida 456", "telefono": "555-987-6543", "carrito_compras": [], "descuento": 10}]
+[
+    {
+        "nombre": "Juan Perez",
+        "email": "juan@example.com",
+        "direccion": "Calle 123",
+        "telefono": "555-123-4567",
+        "carrito_compras": []
+    },
+    {
+        "nombre": "Juana Maria",
+        "email": "juan@example.com",
+        "direccion": "Calle 123",
+        "telefono": "555-123-4567",
+        "carrito_compras": []
+    },
+    {
+        "nombre": "Maria Rodriguez",
+        "email": "maria@example.com",
+        "direccion": "Avenida 456",
+        "telefono": "555-987-6543",
+        "carrito_compras": [],
+        "descuento": 10
+    }
+]
